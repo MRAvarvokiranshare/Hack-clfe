@@ -36,4 +36,4 @@ mv *png /sdcard
 رو بزنید تا عکسا توی حافظه داخلی گوشیتون سیو بشه
 
 
-چنل واتسدپ ما https://chat.whatsapp.com/CqudAuDAKU3LpQzkHV4ToF
+چنل واتساپ ما https://chat.whatsapp.com/CqudAuDAKU3LpQzkHV4ToF
